@@ -1,0 +1,21 @@
+{
+  "name": "StudyTools - Productivity Website",
+  "short_name": "StudyTools",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f1f3f4",
+  "theme_color": "#1a73e8",
+  "description": "StudyTools is a productivity and study companion website featuring a Pomodoro timer, study materials, and focused tools.",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
